@@ -1,6 +1,6 @@
 .carrossel{
-    width: 900px;
-    height: 600px;
+    width: 1600px;
+    height: 900px;
     overflow: hidden;
 }
 
@@ -18,22 +18,22 @@
     4.76%{margin-left: 0;}
     9.52%{margin-left: -100%;}
     14.28%{margin-left: -100%;}
-    19.04%{margin-left: -201%;}
-    23.8%{margin-left: -201%;}
-    28.56%{margin-left: -301.5%;}
-    33.32%{margin-left: -301.5%;}
-    38.08%{margin-left: -401.5%;}
-    42.84%{margin-left: -401.5%;}
-    47.6%{margin-left: -502%;}
-    52.36%{margin-left: -502%;}
-    57.12%{margin-left: -602.5%;}
-    61.88%{margin-left: -602.5%;}
-    66.64%{margin-left: -703%;}
-    71.4%{margin-left: -703%;}
-    76.16%{margin-left: -803.5%;}
-    80.92%{margin-left: -803.5%;}
-    85.68%{margin-left: -904%;}
-    95.44%{margin-left: -904%;}
-    100%{margin-left: -1004.5%;}
+    19.04%{margin-left: -200.5%;}
+    23.8%{margin-left: -200.5%;}
+    28.56%{margin-left: -301%;}
+    33.32%{margin-left: -301%;}
+    38.08%{margin-left: -401.3%;}
+    42.84%{margin-left: -401.3%;}
+    47.6%{margin-left: -501.6%;}
+    52.36%{margin-left: -501.6%;}
+    57.12%{margin-left: -601.9%;}
+    61.88%{margin-left: -601.9%;}
+    66.64%{margin-left: -702.2%;}
+    71.4%{margin-left: -702.2%;}
+    76.16%{margin-left: -802.5%;}
+    80.92%{margin-left: -802.5%;}
+    85.68%{margin-left: -902.8%;}
+    95.44%{margin-left: -902.8%;}
+    100%{margin-left: -1003.1%;}
 }
 
